@@ -1,0 +1,3 @@
+Output of following:
+
+6 4
